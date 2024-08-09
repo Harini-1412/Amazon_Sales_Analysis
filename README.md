@@ -20,19 +20,21 @@ The dataset used for this project contains sales transactions from three Amazon 
      - Inserted and validated data, ensuring no NULL values were present.
 
 - Feature Engineering
+  
      Added new columns to enhance analysis:
-                - timeofday: Indicates sales in Morning, Afternoon, and Evening.
-                - dayname: Extracted day of the week from transaction date.
-                - monthname: Extracted month from transaction date.
+                -  timeofday: Indicates sales in Morning, Afternoon, and Evening.
+                -  dayname: Extracted day of the week from transaction date.
+                -  monthname: Extracted month from transaction date.
   
 - Exploratory Data Analysis (EDA)
+- 
       Addressed key business questions including:
-            - Count of distinct cities and product lines.
-            - Most frequent payment methods and product lines with highest sales.
-            - Monthly revenue and peak COGS.
-            - Revenue and VAT analysis by city.
-            - Customer type and gender analysis.
-            - Rating analysis by time of day and day of the week.
+            -  Count of distinct cities and product lines.
+            -  Most frequent payment methods and product lines with highest sales.
+            -  Monthly revenue and peak COGS.
+            -  Revenue and VAT analysis by city.
+            -  Customer type and gender analysis.
+            -  Rating analysis by time of day and day of the week.
   
 **Key Visualizations**
 The project includes visualizations created using Power BI, which provide key insights into the data. The Power BI file (Amazon Sales Insights.pbix) is included in this repository.
