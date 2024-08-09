@@ -1,7 +1,7 @@
 **Amazon Sales Data Analysis**
 
 **Project Overview**
-The aim of this capstone project is to gain insights into the sales data of Amazon branches located in Mandalay, Yangon, and Naypyitaw. By analyzing this data, we seek to understand the factors influencing sales across these branches, evaluate the performance of different product lines, and uncover customer behavior patterns.
+The aim of this project is to gain insights into the sales data of Amazon branches located in Mandalay, Yangon, and Naypyitaw. By analyzing this data, we seek to understand the factors influencing sales across these branches, evaluate the performance of different product lines, and uncover customer behavior patterns.
 
 **Dataset**
 The dataset used for this project contains sales transactions from three Amazon branches. It includes 17 columns and 1000 rows.
