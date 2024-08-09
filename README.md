@@ -27,7 +27,6 @@ The dataset used for this project contains sales transactions from three Amazon 
                 -  monthname: Extracted month from transaction date.
   
 - Exploratory Data Analysis (EDA)
-- 
       Addressed key business questions including:
             -  Count of distinct cities and product lines.
             -  Most frequent payment methods and product lines with highest sales.
